@@ -1,2 +1,3 @@
 # hello-world
-this is just a start project
+
+this project is about learning github
